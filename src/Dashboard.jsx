@@ -8,7 +8,7 @@ const Dashboard = () => {
         <div class=" shadow-2xl ">
           <img
             class="w-full h-3/4 object-contain object-center"
-            src="download (6).jpg "
+            src="/download (6).jpg "
             alt="Sunset in the mountains"
           />
           <div class="px-6 w-full py-2">
@@ -26,28 +26,28 @@ const Dashboard = () => {
             <h1 className="text-md ">Popular Posts</h1>
           </div>
           <div className="py-2 px-4 border-b-2 border-gray-300 flex items-center">
-            <img src="download (6).jpg" className="w-15"></img>
+            <img src="/download (6).jpg" className="w-15"></img>
             <div className="px-2">
               <p className="font-bold">Lorem</p>
               <p className="text-sm">Lorem ipsum dolor sit.</p>
             </div>
           </div>
           <div className="py-2 px-4 border-b-2 border-gray-300 flex items-center">
-            <img src="download (1).jpg" className="w-15"></img>
+            <img src="/download (1).jpg" className="w-15"></img>
             <div className="px-2">
               <p className="font-bold">Lorem</p>
               <p className="text-sm">Lorem ipsum dolor sit.</p>
             </div>
           </div>
           <div className="py-2 px-4 border-b-2 border-gray-300 flex items-center">
-            <img src="download (2).jpg" className="w-15"></img>
+            <img src="/download (2).jpg" className="w-15"></img>
             <div className="px-2">
               <p className="font-bold">Lorem</p>
               <p className="text-sm">Lorem ipsum dolor sit.</p>
             </div>
           </div>
           <div className="py-2 px-4 border-b-2 border-gray-300 flex items-center">
-            <img src="download (1).jpg" className="w-15"></img>
+            <img src="/download (1).jpg" className="w-15"></img>
             <div className="px-2">
               <p className="font-bold">Lorem</p>
               <p className="text-sm">Lorem ipsum dolor sit.</p>
